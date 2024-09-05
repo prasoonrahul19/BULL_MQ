@@ -8,13 +8,14 @@ This project uses BullMQ for job and message processing with Node.js. Redis is u
 ## Project Setup
 
 
-1. Clone the Repository
+### 1. Clone the Repository
 
   Clone the repository to your local machine:
 
   ```bash
   git clone https://github.com/yourusername/your-repository.git
   cd your-repository
+
 2. Install Node.js Dependencies
 - execute 'npm install' on the same path as your root dorectory of the download project
 3. Set Up Redis Using Docker
